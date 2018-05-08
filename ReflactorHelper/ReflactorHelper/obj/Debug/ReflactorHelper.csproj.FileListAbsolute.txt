@@ -1,5 +1,0 @@
-C:\Users\Gilbert\source\repos\ReflactorHelper\ReflactorHelper\obj\Debug\ReflactorHelper.csproj.CoreCompileInputs.cache
-C:\Users\Gilbert\source\repos\ReflactorHelper\ReflactorHelper\bin\Debug\ReflactorHelper.dll
-C:\Users\Gilbert\source\repos\ReflactorHelper\ReflactorHelper\bin\Debug\ReflactorHelper.pdb
-C:\Users\Gilbert\source\repos\ReflactorHelper\ReflactorHelper\obj\Debug\ReflactorHelper.dll
-C:\Users\Gilbert\source\repos\ReflactorHelper\ReflactorHelper\obj\Debug\ReflactorHelper.pdb
